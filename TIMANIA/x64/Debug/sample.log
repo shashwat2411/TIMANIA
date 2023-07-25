@@ -1,3 +1,155 @@
-﻿  object.cpp
+﻿  Abilities.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
 c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  ball.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  CharacterSelect.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Dome.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\dome.cpp(63): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  bullet.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\bullet.cpp(43): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\bullet.cpp(120): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  camera.cpp
+  collision.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  enemy.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\enemy.cpp(92): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\enemy.cpp(218): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  EnemyBullet.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  EnemySummon.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Explosion.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\explosion.cpp(32): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  fade.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  FloatRing.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Game.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\abilityupdate.h(17): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\abilityupdate.h(20): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\abilityupdate.h(21): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\abilityupdate.h(22): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\abilityupdate.h(23): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Ground.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  InputController.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\inputcontroller.cpp(65): warning C4101: 'reference': ローカル変数は 1 度も使われていません。
+  inputx.cpp
+  keyboard.cpp
+  main.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\main.cpp(139): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\main.cpp(231): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  meshfield.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\inputcontroller.cpp(116): warning C4172: ローカル変数またはテンポラリのアドレスを返します
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\inputcontroller.cpp(121): warning C4172: ローカル変数またはテンポラリのアドレスを返します
+  コンパイル中...
+  model.cpp
+  ModelReader.cpp
+  mouse.cpp
+  Number.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  object.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  player.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.cpp(34): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.cpp(46): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.cpp(58): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  Pointer.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  renderer.cpp
+  Result.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Scene.cpp
+  SelectStage.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\selectstage.cpp(109): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\selectstage.cpp(110): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\selectstage.cpp(111): warning C4305: '引数': 'double' から 'FLOAT' へ切り詰めます。
+  shadow.cpp
+  sound.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SoundReader.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Sword.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(38): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\number.h(45): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\player.h(125): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Texture.cpp
+  Title.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\sound.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UI.cpp
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\ui.cpp(33): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\ui.cpp(232): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\sk_kh_r8q2uw\desktop\sk\study n stuff\２年生\dx21プロジェクト\後期\3校合同コンテスト\dx22_3校合同\ui.cpp(233): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  コードを生成中...
   sample.vcxproj -> C:\Users\sk_kh_r8q2uw\Desktop\SK\Study N Stuff\２年生\DX21プロジェクト\後期\3校合同コンテスト\DX22_3校合同\x64\Debug\sample.exe
