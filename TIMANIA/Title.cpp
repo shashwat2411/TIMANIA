@@ -105,22 +105,22 @@ void	UpdateTitle()	//	ステージ選択更新処理
 	if (chosenTitle < 0) { chosenTitle = 2; }
 	if (chosenTitle > 2) { chosenTitle = 0; }
 
-	if ((GetKeyBoardBool() == true ? GetKeyboardPress(DIK_SPACE) : GetControllerPress("A")) == true && Press.use == false) { Options[chosenTitle].Size = Options[chosenTitle].SizeBackUp; changeTitle = true; }
-	if (chosenTitle == 0 && Press.use == false) { Fader((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")), SELECT); }
-	if (chosenTitle == 1 && Press.use == false) { Fader((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")), CHARACTER); }
-	if (chosenTitle == 2 && Press.use == false) { if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")) == true) { exit(999); } }
+	if ((GetKeyBoardBool() == true ? GetKeyboardPress(DIK_RETURN) : GetControllerPress("A")) == true && Press.use == false) { Options[chosenTitle].Size = Options[chosenTitle].SizeBackUp; changeTitle = true; }
+	if (chosenTitle == 0 && Press.use == false) { Fader((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")), SELECT); }
+	if (chosenTitle == 1 && Press.use == false) { Fader((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")), CHARACTER); }
+	if (chosenTitle == 2 && Press.use == false) { if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")) == true) { exit(999); } }
 
-	if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")) == true && Press.use == false) { PlayReadSound(SE_BUTTON_1, SE); }
-	if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")) == true && Press.use == true) { PlayReadSound(SE_BUTTON_2, SE); }
+	if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")) == true && Press.use == false) { PlayReadSound(SE_BUTTON_1, SE); }
+	if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")) == true && Press.use == true) { PlayReadSound(SE_BUTTON_2, SE); }
 
-	if (Press.use == false && changeTitle == true && (GetKeyBoardBool() == true ? GetKeyboardPress(DIK_SPACE) : GetControllerPress("A")) == false)
+	if (Press.use == false && changeTitle == true && (GetKeyBoardBool() == true ? GetKeyboardPress(DIK_RETURN) : GetControllerPress("A")) == false)
 	{
 		StopControlsBool(30);
 	}
 	//Press Button
 	{
 		if (Press.use == true) { Press.Blink(0.005f); }
-		if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_SPACE) : GetControllerTrigger("A")) == true) { if (Press.use == true) { StopControlsBool(20); }Press.use = false; for (int i = 0; i < 3; i++) { Options[i].use = true; } }
+		if ((GetKeyBoardBool() == true ? GetKeyboardTrigger(DIK_RETURN) : GetControllerTrigger("A")) == true) { if (Press.use == true) { StopControlsBool(20); }Press.use = false; for (int i = 0; i < 3; i++) { Options[i].use = true; } }
 
 		for (int i = 0; i < 3; i++) { if (Options[i].use == true) { Options[i].Appear(0.01f); } }
 	}
@@ -136,7 +136,7 @@ void	UpdateTitle()	//	ステージ選択更新処理
 	sprintf(&str[strlen(str)], "     TestX : %.2f, TestY : %.2f", test->Offset.x, test->Offset.y);
 	//sprintf(&str[strlen(str)], "     Color Alpha : %.2f", test->Color.a);
 
-	//bool a = (IsButtonPressed(0, BUTTON_A) || GetKeyboardTrigger(DIK_SPACE));
+	//bool a = (IsButtonPressed(0, BUTTON_A) || GetKeyboardTrigger(DIK_RETURN));
 	//sprintf(&str[strlen(str)], "     A : %d", a);
 #endif
 }
