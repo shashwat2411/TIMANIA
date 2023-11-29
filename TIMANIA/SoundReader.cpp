@@ -149,8 +149,8 @@ void PlayReadSound(READ_SOUND num, SOUND_TYPE type)
 	{
 		if (num != READ_SOUND_NONE)
 		{
-			if (type == SE) { PlaySound(Sounds[num], 0); }
-			else if (type == BGM) { PlaySound(Sounds[num], -1); }
+			if (type == SE) { PlaySoundInGame(Sounds[num], 0); }
+			else if (type == BGM) { PlaySoundInGame(Sounds[num], -1); }
 		}
 	}
 }

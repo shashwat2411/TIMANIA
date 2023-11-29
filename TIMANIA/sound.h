@@ -9,7 +9,7 @@ bool InitSound(HWND hWnd);  //サウンドの初期化
 void UninitSound(void);  //サウンドの終了処理
 
 int LoadSound(char* pFilename); //データのロード
-void PlaySound(int index, int loopCount); //データの再生、フラグ0で一回、-1でループ再生
+void PlaySoundInGame(int index, int loopCount); //データの再生、フラグ0で一回、-1でループ再生
 void StopSound(int index);  //データの生成停止
 
 

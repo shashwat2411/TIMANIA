@@ -239,7 +239,7 @@ void SetVolume(int index, float vol)
 /*------------------------------------------------------------------------------
    âπê∫ÇÃçƒê∂
 ------------------------------------------------------------------------------*/
-void PlaySound(int index, int loopCount)
+void PlaySoundInGame(int index, int loopCount)
 {
 	XAUDIO2_VOICE_STATE xa2state;
 	XAUDIO2_BUFFER buffer;
